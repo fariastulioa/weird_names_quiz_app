@@ -1,4 +1,4 @@
-# weird_names_quiz_app
+# Weird Names Quiz App
 A mobile game for Android devices in which players guess whether a weird name is real or AI generated  
 
 Available only in portuguese, with brazilian names.  
